@@ -1,4 +1,5 @@
 # vue-project
+This archives are the result of the Vue 3 course of Hora de Codar
 
 This template should help get you started developing with Vue 3 in Vite.
 
